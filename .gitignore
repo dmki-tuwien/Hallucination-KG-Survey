@@ -1,3 +1,11 @@
+# DBLP dump files
+data/dblp-2023-06-28.dtd
+data/dblp-2026-11-01.xml.gz
+
+# ACL and DBLP data
+data/acl_anthology.parquet
+data/dblp_anthology.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
