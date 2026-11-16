@@ -48,13 +48,13 @@ Knowledge Graph-Guided Retrieval Augmented Generation,172.0
 NCL-UoR at SemEval-2025 Task 3: Detecting Multilingual Hallucination and Related Observable Overgeneration Text Spans with Modified RefChecker and Modified SelfCheckGPT,1.0
 COGUMELO at SemEval-2025 Task 3: A Synthetic Approach to Detecting Hallucinations in Language Models based on Named Entity Recognition,0.0
 RouterKGQA: Specialized–General Model Routing for Constraint-Aware Knowledge Graph Question Answering,2.0
-EcoStatKG: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in LLMs,
+EcoStatKG: A Domain-Specific Statistical Knowledge Graph and Benchmark for Evaluating Numerical Hallucination in LLMs,0.0
 CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs,2.0
 Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation,2.0
 KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering,0.0
 Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering,11.0
-MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval,
-VLCE: A Knowledge-Enhanced Framework for Image Description in Disaster Assessment,
+MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval,3.0
+VLCE: A Knowledge-Enhanced Framework for Image Description in Disaster Assessment,2.0
 Beyond Visual Similarity: Rule-Guided Multimodal Clustering with explicit domain rules,0.0
 TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning,2.0
 Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval,8.0
@@ -74,7 +74,7 @@ Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Ba
 Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models,17.0
 Separating Linguistic Competence from Factual Knowledge in Large Language Models,0.0
 GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework,62.0
-Fine-Tuning Vision Language Models with Graph-Based Knowledge for Explainable Medical Image Analysis,
+Fine-Tuning Vision Language Models with Graph-Based Knowledge for Explainable Medical Image Analysis,9.0
 Using Knowledge Graphs and Agentic LLMs for Factuality Text Assessment and Improvement,2.0
 KGSynX: Knowledge Graph and Explainable Feedback Guided LLMs for Synthetic Tabular Data Generation,2.0
 RAGulating Compliance: A Multi-Agent Schema Light Knowledge Graph for Regulatory Compliance QA,2.0
@@ -117,7 +117,7 @@ Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs
 CCNU at SemEval-2025 Task 3: Leveraging Internal and External Knowledge of Large Language Models for Multilingual Hallucination Annotation,0.0
 DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation,7.0
 Large Language Models Meet Knowledge Graphs to Answer Factoid Questions,24.0
-KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques,
+KG-Rank: Enhancing Large Language Models for Medical QA with Knowledge Graphs and Ranking Techniques,100.0
 Explaining Black-Box Language Models with Knowledge Probing Systems: A Post-hoc Explanation Perspective,3.0
 How Do Large Language Models Acquire Factual Knowledge During Pretraining?,133.0
 Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking,21.0
@@ -164,7 +164,7 @@ Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models,1
 Facts Fade Fast: Evaluating Memorization of Outdated Medical Knowledge in Large Language Models,9.0
 Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models,39.0
 X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models,178.0
-Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons,
+Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons,28.0
 RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG,2.0
 Prompting large language models with knowledge graphs for question answering involving long-tail facts,43.0
 Towards trustworthy LLMs for project management: Benchmarking a vector hybrid and graph RAG architectures,0.0
@@ -262,7 +262,7 @@ The Synergy of Large Language Models and Dataspaces: A Functional Exploration,1.
 UKRAG: A Unified Knowledge Graph to Enhance Retrieval Augmented Generation Performance,
 GRIL: Knowledge Graph Retrieval-Integrated Learning with Large Language Models,4.0
 GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs,2.0
-"SemTech4STLD 2025 - 3rd International Workshop on Semantic Technologies and Deep Learning Models for Scientific, Technical and Legal Data, co-located with Extended Semantic Web Conference 2025, ESWC 2025",
+"SemTech4STLD 2025 - 3rd International Workshop on Semantic Technologies and Deep Learning Models for Scientific, Technical and Legal Data, co-located with Extended Semantic Web Conference 2025, ESWC 2025",0.0
 Multi_semantic RAG: What’s not Important is Important,
 ReWiSe: Relation-Wise Self-consistency for LLM Probing,0.0
 Lifelong Model Editing with Graph-Based External Memory,
@@ -354,12 +354,12 @@ Enhancing FIR Drafting via Graph-RAG and LCR-Net: A Hybrid Framework for Legal A
 Enhancing QA Systems with Knowledge Graphs and LLMS: A Case Study in Vietnamese,
 ViGATOR: Explainable Graph-Based Video RAG and&#xa0;Summarization,
 Enhancing Explainability in Knowledge Graph Construction for Healthcare Services Using Large Language Models,
-"MedHive: A Deployed, Ontology-Grounded and Provenance-Aware Knowledge Platform for Medical-Device Regulatory Documentation",
+"MedHive: A Deployed, Ontology-Grounded and Provenance-Aware Knowledge Platform for Medical-Device Regulatory Documentation",0.0
 "Building Neo4j-Powered Applications with LLMs: Create LLM-driven search and recommendations applications with Haystack, LangChain4j, and Spring AI",0.0
 "Building AI Agents with LLMs, RAG, and Knowledge Graphs: A practical guide to autonomous and modern AI agents",
-KG-Odyssey: Adaptive Interaction for Knowledge Graphs Question Answering with LLM Agents,
-CausalVulDetect: Mitigating LLM Hallucinations in Vulnerability Detection via Causal Reasoning and Counterfactual Verification,
-Dynamic Topology Optimization for LLM-Augmented Urban Digital Twins: A Complex Network Approach to Crisis Management,
+KG-Odyssey: Adaptive Interaction for Knowledge Graphs Question Answering with LLM Agents,0.0
+CausalVulDetect: Mitigating LLM Hallucinations in Vulnerability Detection via Causal Reasoning and Counterfactual Verification,0.0
+Dynamic Topology Optimization for LLM-Augmented Urban Digital Twins: A Complex Network Approach to Crisis Management,0.0
 PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents,0.0
 "RAG-Driven Generative AI: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone",
 From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure,1.0
